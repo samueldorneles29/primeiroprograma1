@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+int main() {
+    int batman;
+    int robin;
+    batman = 10;
+    robin = 11;
+    int soma; batman + robin;
+    int multiplicacao = batman * robin;
+    printf("o valor de batman é de %d \n" , batman);
+    printf("o valor de robin é de %d \n" , robin);
+    printf(" soma é de %d  \n" , soma);
+    printf(" multiplicacao é de %d" , multiplicacao);
+   
+    return 0;
+}
